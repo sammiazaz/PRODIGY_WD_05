@@ -49,12 +49,12 @@ You only need a modern web browser (e.g., Chrome, Firefox, Edge, Safari) to run 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/stopwatch-web-application.git](https://github.com/YOUR_USERNAME/stopwatch-web-application.git)
+    git clone https://github.com/sammiazaz/PRODIGY_WD_05.git
     ```
-    *(Replace `YOUR_USERNAME` and `stopwatch-web-application` with your actual GitHub username and repository name)*
+   
 2.  **Navigate to the project directory:**
     ```bash
-    cd stopwatch-web-application
+    cd PRODIGY_WD_05
     ```
 3.  **Open `index.html`:**
     Simply open the `index.html` file in your preferred web browser.
